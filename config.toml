@@ -1,4 +1,4 @@
-baseURL = 'https://2101-avin.github.io/Blog/'
+baseURL = "https://2101-avin.github.io/Blog/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme='aether'
